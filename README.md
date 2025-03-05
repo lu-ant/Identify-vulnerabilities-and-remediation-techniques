@@ -48,8 +48,12 @@ Cross-Site Scripting (XSS)	Web app accepts unescaped user input.	Implement input
 Open Firewall Rule	Allowed access from all IPs.	Restrict firewall rules to trusted IPs.
 
 🚀 Lessons Learned
+
 ✅ Proactive vulnerability scanning helps identify security risks before exploitation.
+
 ✅ Web applications must sanitize user input to prevent XSS and other injection attacks.
+
 ✅ Cloud security tools like Web Security Scanner automate the detection of web vulnerabilities.
+
 ✅ Firewall rules should be restrictive to limit exposure.
 
